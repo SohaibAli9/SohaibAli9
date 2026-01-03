@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SohaibAli9 and I'm studying to become a Computer Scientist. I am currently in my 4th Semester now.
-- 👀 I’m interested in Research side of computer science and I like to look behind things and find out how they operate.
-- 🌱 I’m currently learning Django Framework and for future I'd like to develop some projects to test my skills.
-- 💞️ I’m looking to collaborate on Mini Projects which we can get off the ground and realistically accomplish something.
-- 📫 You can reach mr by just dropping a DM or @sohaibAli9 on instagram.
+👋 Hi, I'm Sohaib Ali - Senior Software Engineer at Pocket Factory (Quantis AI) with 3+ years architecting cloud-native distributed systems on Azure.
+🔧 Currently building production microservices processing 40K+ events/second, specializing in .NET/C#, containerization, and AI-assisted development workflows.
+🚀 Passionate about distributed systems architecture, performance optimization, and leveraging AI tools (Cursor, Claude Code, ChatGPT) to accelerate development cycles.
+💼 Open to remote opportunities at FAANG/Big Tech companies - particularly interested in backend distributed systems and cloud infrastructure roles.
+📫 Reach me: sohaibali999@gmail.com | LinkedIn Sohaibali9
 
 <!---
 SohaibAli9/SohaibAli9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
