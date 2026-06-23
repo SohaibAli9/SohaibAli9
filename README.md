@@ -1,14 +1,41 @@
-👋 Hi, I'm Sohaib Ali - Senior Software Engineer at Pocket Factory (Quantis AI) with 3+ years architecting cloud-native distributed systems on Azure.
+# Hi, I'm Sohaib 👋
 
-🔧 Currently building production microservices processing 40K+ events/second, specializing in .NET/C#, containerization, and AI-assisted development workflows.
+**I build AI systems that turn messy real-world documents into reliable structured
+data — and agents that act on it.**
 
-🚀 Passionate about distributed systems architecture, performance optimization, and leveraging AI tools (Cursor, Claude Code, ChatGPT) to accelerate development cycles.
+Independent AI engineer focused on **intelligent document processing (IDP)** and
+**applied LLM / agent systems**. I take projects from "a folder of 10,000 ugly PDFs"
+to clean, validated, production-grade data — and from "we wish this ran itself" to an
+agent that does.
 
-💼 Open to remote opportunities at FAANG/Big Tech companies - particularly interested in backend distributed systems and cloud infrastructure roles.
+### What I do
 
-📫 Reach me: sohaibali999@gmail.com | LinkedIn Sohaibali9
+🗂 **Intelligent Document Processing** — High-accuracy extraction from hard documents:
+scanned forms, technical drawings, financial statements, claims. Staged pipelines
+(classify → extract → validate against ground truth), corpus-scale batch processing
+with resume + caching, delivered as Excel / CSV / JSON.
 
-<!---
-SohaibAli9/SohaibAli9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🤖 **Agentic & LLM systems** — Tool-using agents, local & air-gapped LLM deployments,
+RAG, and evaluation harnesses. I measure accuracy *and* cost — not vibes.
+
+⚙️ **Shipping** — Prototype to a real URL: Docker, observable pipelines, clean deploys.
+I deliver working software, not notebooks.
+
+### Selected work
+
+| Project | What it is |
+|---|---|
+| **[axon](https://github.com/SohaibAli9/axon)** | Self-contained edge-intelligence agent for air-gapped infra. Local LLM (Qwen3), tool-calling, single-package deploy. |
+| **[gerberview](https://github.com/SohaibAli9/gerberview)** | Browser-native Gerber / PCB viewer. Rust → WASM + WebGL, 60 fps, zero backend — nothing leaves your machine. |
+| **[tradestation-backtest-toolkit](https://github.com/SohaibAli9/tradestation-backtest-toolkit)** | Automated backtesting + statistical analysis pipeline for quant research. |
+
+### Toolbelt
+
+`Python` · `TypeScript` · `Rust` · LLM APIs (Claude · Gemini · GPT) · LangChain ·
+PyMuPDF / OCR · PyTorch · Docker · Azure · WASM / WebGL
+
+### Let's talk
+
+Got documents you wish were data, or a workflow you wish were an agent?
+
+📫 **sohaibali999@gmail.com**  ·  💼 [LinkedIn](https://linkedin.com/in/sohaibali9)
